@@ -30,9 +30,11 @@
   
 เมื่อรวมข้อมูลรายวันของทุกเขื่อนตั้งแต่ปี 2014-2024 และภูมิภาคประเทศไทยจะได้ attribute ทั้งหมด 244292 rows/ 14 columns
 
-![image](https://github.com/user-attachments/assets/c95a9486-e6ad-424b-a69d-9eb40385b5af)
+![image](https://github.com/user-attachments/assets/8b6f7aad-4ac0-471c-8723-e074b975dbef)
 
 สังเกตว่า volume และ percentage_storage หายไปบางส่วนจึงคาดว่าอาจมีความผิดพลาดในการอ่านค่า sensor ในวันนั้นๆ จึงทำการแทนค่าด้วยค่าเฉลี่ยของเขื่อนนั้นๆแทน
+
+![image](https://github.com/user-attachments/assets/c95a9486-e6ad-424b-a69d-9eb40385b5af)
 
 ### 2. ดูข้อมูลภาพรวมเที่มีนัยสำคัญ เพื่อนำมาตั้งเป็นเป้าหมายการวิเคราะห์
 ทำการนำข้อมูลตลอด10ปี(2014-2024) มาดูความแตกต่างระหว่าง inflow และ outflow เพื่อหาช่วงเวลาที่มีนัยสำคัญดังต่อไปนี้
