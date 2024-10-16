@@ -97,37 +97,37 @@ reference site: https://tiwrm.hii.or.th/web/index.php/flood-history.html
 
 * เขื่อนภาคเหนือปี 2017
 
-![Signal1 2017](https://github.com/user-attachments/assets/e0900f42-e061-4c2b-874a-36889e41c682)
+![Signal1 2017](https://github.com/user-attachments/assets/0f40d88f-af54-479b-81ce-92b2f2bc3ba9)
 
 * เขื่อนภาคเหนือปี 2018
 
-![Signal1 2018](https://github.com/user-attachments/assets/575a7806-7529-4121-8e50-5685a7d198ad)
+![Signal1 2018](https://github.com/user-attachments/assets/ee944b5c-0a6a-478d-bbc3-96f9ec3700fe)
 
 * เขื่อนภาคเหนือปี 2020
 
-![Signal 2020](https://github.com/user-attachments/assets/359bd596-78e2-4bde-8d66-9ff2ceb7f073)
+![Signal1 2020](https://github.com/user-attachments/assets/8b8226f7-8968-4314-8e35-feffd0a89f65)
 
 * เขื่อนภาคเหนือปี 2024
 
-![Signal1 2024](https://github.com/user-attachments/assets/e86bf1dc-9b8b-4c13-a615-78eb1a1ad71b)
-
+![Signal1 2024](https://github.com/user-attachments/assets/7a394102-1395-4328-a5b1-bcff1307480d)
 
 
 ### Signal 2: Storage Percentage Over Time
 นำข้อมูลเปอร์เซนต์ของปริมาณน้ำในเขื่อนตลอดปี 2017,2018,2020 มาเปรียบเทียบรูปแบบของปริมาณคงเหลือระหว่างปีที่น้ำท่วมและไม่ท่วมดังรูปต่อไปนี้
-เขื่อนภาคเหนือปี 2017
+
+* เขื่อนภาคเหนือปี 2017
 
 ![Signal2 2017](https://github.com/user-attachments/assets/aa67cc4d-96ea-4959-ab1d-9bf3d2c45e80)
 
-เขื่อนภาคเหนือปี 2018
+* เขื่อนภาคเหนือปี 2018
 
 ![Signal2 2018](https://github.com/user-attachments/assets/bbdfca9a-2534-49a8-8e4f-8f54912195b5)
 
-เขื่อนภาคเหนือปี 2020
+* เขื่อนภาคเหนือปี 2020
 
 ![Signal2 2020](https://github.com/user-attachments/assets/6c8a8195-5908-42ef-ae77-c92050b335ac)
 
-เขื่อนภาคเหนือปี 2024
+* เขื่อนภาคเหนือปี 2024
 
 ![Signal2 2024](https://github.com/user-attachments/assets/81c8f376-f60b-4b06-a199-81c7859a8ff6)
 
