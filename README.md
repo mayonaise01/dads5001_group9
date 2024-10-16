@@ -3,7 +3,10 @@
 ## Research Question
 1. ข้อมูลน้ำของเขื่อนในประเทศไทยจากปี 2014-2024 สามารถบอกการเกิดน้ำท่วมได้หรือไม่
 2. ข้อมูลน้ำของเขื่อนในประเทศไทยจากปี 2014-2024 มีสัญญาณใดบ่งบอกตวามเป็นไปได้ของการเกิดน้ำท่วมบ้าง
-3. (จากข้อ2)ถ้ามีจะสามารถใช้วิธีใดเพื่อปรับปรุงการบริหารน้ำ เพื่อป้องกันการเกิดน้ำท่วมได้
+    2.1. ทดสอบข้อมูลน้ำภาคเหนือปี 2017-2018 เพื่อหาสัญญาณว่าจะเกิดน้ำท่วมหรือไม่
+    2.2. ทดสอบข้อมูลน้ำภาคเหนือปี 2020-2021 เพื่อหาสัญญาณว่าจะเกิดน้ำท่วมหรือไม่
+3. ข้อมูลน้ำภาคเหนือปี 2024 มีสัญญาณอะไรบ่งบอกว่าจะเกิดน้ำท่วมในช่วงปลายปี
+4. (จากข้อ2)ถ้ามีจะสามารถใช้วิธีใดเพื่อปรับปรุงการบริหารน้ำ เพื่อป้องกันการเกิดน้ำท่วมได้
 
 ## Data Jouney
 
@@ -80,10 +83,31 @@ reference site: https://tiwrm.hii.or.th/web/index.php/flood-history.html
 กลุ่มของเราจึงจะนำเอาเคสน้ำท่วมที่เกิดขึ้นมาศึกษาการบริหารจัดการน้ำของเขื่อนเหล่านี้ เพื่อหาคำตอบตาม research question ที่เราได้ตั้งไว้
 
 ### 3. ค้นหาสัญญาณต่างๆที่อาจบ่งบอกการเกืดน้ำท่วมล่วงหน้า
-Signal 1 : Inflow vs Storage Capacity
 
-Signal 2 : Inflow and Outflow Over Time
+Signal 1 : Inflow and Outflow Over Time
 
-Signal 3: Storage Percentage Over Time
+เขื่อนภาคเหนือปี 2017
+
+![Signal1 2017](https://github.com/user-attachments/assets/e0900f42-e061-4c2b-874a-36889e41c682)
+
+เขื่อนภาคเหนือปี 2018
+
+![Signal1 2018](https://github.com/user-attachments/assets/575a7806-7529-4121-8e50-5685a7d198ad)
+
+เขื่อนภาคเหนือปี 2020
+
+![Signal 2020](https://github.com/user-attachments/assets/359bd596-78e2-4bde-8d66-9ff2ceb7f073)
+
+เขื่อนภาคเหนือปี 2021
+
+![Signal 2021](https://github.com/user-attachments/assets/69d5d2bd-e7b8-4cc1-899b-2d14ca0203be)
+
+เขื่อนภาคเหนือปี 2024
+
+![Signal1 2024](https://github.com/user-attachments/assets/e86bf1dc-9b8b-4c13-a615-78eb1a1ad71b)
+
+
+
+Signal 2: Storage Percentage Over Time
 
 ## บทสรุป
