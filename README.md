@@ -110,4 +110,25 @@ Signal 1 : Inflow and Outflow Over Time
 
 Signal 2: Storage Percentage Over Time
 
+เขื่อนภาคเหนือปี 2017
+
+![Signal2 2017](https://github.com/user-attachments/assets/aa67cc4d-96ea-4959-ab1d-9bf3d2c45e80)
+
+เขื่อนภาคเหนือปี 2018
+
+![Signal2 2018](https://github.com/user-attachments/assets/bbdfca9a-2534-49a8-8e4f-8f54912195b5)
+
+เขื่อนภาคเหนือปี 2020
+
+![Signal2 2020](https://github.com/user-attachments/assets/6c8a8195-5908-42ef-ae77-c92050b335ac)
+
+เขื่อนภาคเหนือปี 2021
+
+![Signal2 2021](https://github.com/user-attachments/assets/d53cb905-8df1-4813-9d65-a3894cef276f)
+
+เขื่อนภาคเหนือปี 2024
+
+![Signal2 2024](https://github.com/user-attachments/assets/81c8f376-f60b-4b06-a199-81c7859a8ff6)
+
+
 ## บทสรุป
