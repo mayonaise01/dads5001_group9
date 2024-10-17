@@ -179,7 +179,7 @@ Ans - จากการทดสอบหาสัญญาณน้ำท่�
 
 * (figure 21)
 
-![image](https://github.com/user-attachments/assets/951079f8-fdbe-45cc-8bdd-bcadbc69a1c5)
+![Screenshot 2567-10-17 at 22 53 20](https://github.com/user-attachments/assets/c8e5e4ad-073c-4653-b3e0-5b260b77a3cc)
 
 
 ## แนวทางศึกษาเพิ่มเติมต่อในอนาคต
